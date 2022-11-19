@@ -1,10 +1,16 @@
 # -womenintech_python_bitirme_projesi-
 
+
+![16](https://user-images.githubusercontent.com/80313913/202870967-de024f3c-1c71-41d8-9da5-f21bb4e46d1b.jpg)
+
+
+
 Bu veri seti içerisinde; 1896 yılından 2016 yılına kadar olan olimpiyat oyunlarıyla ilgili, yarışmacının adı, cinsiyeti, yaşı, boyu, kilosu, yarıştığı spor dalı, kazandığı madalya gibi bilgiler bulunmaktadır. 
 
 Veri setleri iki tane .csv dosyasından oluşmaktadır:
 
 1-athletes.csv
+
 2-NOC_regions.csv
 
 athlete_events.csv dosyasında:
@@ -32,10 +38,14 @@ athlete_events.csv dosyasında:
   
   Data incelemesinde başlıca aşağıdaki analizleri yaptım:
   
-  1- Age&Weight&Height ilişkileri
-  2- Cinsiyetlere göre dağılımlar
-  3- Ülkelere göre analiz
-  4- Olimpiyatta Türkiye değerlerinin incelenmesi 
+  1- Yarışmacı profil analizleri: Age&Weight&Height İlişkilerinin incelenmesi
+  
+  2- Cinsiyetlere göre dağılımlar & Olimpiyatlarda Kadın yarışmacalar
+  
+  3- Ülkelere göre analizler
+  
+  4- Olimpiyatta Türkiye verilerinin incelenmesi 
+  
   
   
   
