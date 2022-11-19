@@ -9,9 +9,9 @@ Bu veri seti içerisinde; 1896 yılından 2016 yılına kadar olan olimpiyat oyu
 
 Veri setleri iki tane .csv dosyasından oluşmaktadır:
 
-1-athletes.csv
+1-athlete_events.csv
 
-2-NOC_regions.csv
+2-noc_regions.csv
 
 athlete_events.csv dosyasında:
 
